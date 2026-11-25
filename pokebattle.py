@@ -1,16 +1,4 @@
-"""
-Grandmaster V9 Master Autonomous Agent for PokéDuel 3v3.
-Final Production Architecture:
-1. First-Strike Priority Law: Never gambles on slower Priority 0 moves when facing lethal damage;
-   always banks guaranteed +2 Extreme Speed / +1 Bullet Punch damage before fainting.
-2. Strict Setup Safety Floor & Flinch Veto: Forbids Swords Dance / Dragon Dance below 65% starting HP,
-   below 38-45% post-hit HP, or into faster flinch moves (Rock Slide / Iron Head / Air Slash).
-3. Temporal Discounting (gamma = 0.88^t) & Two-Tap Sash Breaker: Eliminates 4-turn Roost horizon
-   illusions and rewards Turn-1 Hit + Turn-2 Priority KO sequences against Focus Sash / Multiscale.
-4. Decoupled Forced-Switch Tracking & Mutual-KO Blind Switch Resilience: Never locks voluntary
-   switching after a faint and protects 4x Fire-weak Scizor on double-blind entries.
-100% Python Standard Library — Zero External Dependencies.
-"""
+
 
 import math
 
