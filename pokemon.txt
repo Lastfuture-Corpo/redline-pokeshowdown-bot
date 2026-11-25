@@ -1,0 +1,6 @@
+Slot 1 — Dragonite: Multiscale | Lum Berry | Adamant | Physical Sweeper (252 Atk / 252 Spe) | Extreme Speed, Outrage, Dragon Dance, Fire Punch.
+
+
+Slot 2 — Scizor: Technician | Life Orb | Adamant | Bulky Attacker (252 HP / 252 Atk) | Bullet Punch, Close Combat, Swords Dance, X-Scissor
+
+Slot 3 — Lapras: Water Absorb | Assault Vest | Modest | Bulky Special (252 HP / 252 SpA) | Freeze-Dry, Surf, Thunderbolt, Ice Beam
